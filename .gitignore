@@ -1,0 +1,12 @@
+# Dados e planilhas de trabalho
+*.xlsx
+*.xlsb
+*.xls
+*.csv
+dados/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
