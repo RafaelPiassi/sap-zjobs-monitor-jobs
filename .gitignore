@@ -10,3 +10,7 @@ Thumbs.db
 desktop.ini
 .DS_Store
 ~$*
+# Excecao: as planilhas de elementos de texto (SE38) sao documentacao do objeto,
+# nao dado de trabalho - elas acompanham o fonte e devem ser versionadas.
+!*_TEXTOS.xlsx
+!*_textos.xlsx
